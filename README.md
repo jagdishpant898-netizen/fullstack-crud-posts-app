@@ -1,1 +1,2 @@
 # fullstack-crud-posts-app
+This is a simple full-stack web application built with Node.js and Express.js to practice RESTful API design. It features complete CRUD functionality, allowing users to create, view, edit, and delete posts dynamically using EJS templates. The project leverages UUID for secure, unique post IDs and uses method-override to process PATCH and DELETE requests seamlessly from the frontend.
